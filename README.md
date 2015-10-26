@@ -1,2 +1,8 @@
-# test
-Following a tutorial online from github
+# Test for a gethub tutorial
+
+## from gethub.com
+
+### objectives 
+* the tutuorial Github pages
+* Desktop clients
+* how to
