@@ -6,3 +6,4 @@
 * the tutuorial Github pages
 * Desktop clients
 * how to
+* testing sync
