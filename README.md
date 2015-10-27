@@ -7,4 +7,4 @@
 * Desktop clients
 * how to
 * testing sync
-* desktop sync verses command line
+* testing testing testing
